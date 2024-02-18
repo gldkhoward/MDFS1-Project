@@ -1,0 +1,5 @@
+This config file is to document hardware specific details 
+
+For example:
+
+The cnc shield json file contains a list of pins on the cnc shield and which pins are connected where to make implimentation incredibly easy
